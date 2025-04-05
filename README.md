@@ -1,2 +1,2 @@
-# Arduino_RiconoscimentoMovimenti
+# Sensori
 Progetto del corso Sensori - UNIBG
